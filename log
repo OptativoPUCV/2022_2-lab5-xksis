@@ -135,3 +135,9 @@ treemap.c:72:10: error: returning ‘int’ from a function with return type ‘
 cc1: all warnings being treated as errors
 Compilation failed
 031ed4d
+Sat 24 Sep 2022 09:25:52 PM UTC: 
+ treemap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  15|4
+total_score: 25/70
+82e4a82
